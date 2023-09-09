@@ -2,7 +2,7 @@
 
 A MIPS assembly implementation of the Fibonacci function, demonstrating the power and intricacies of assembly programming.
 
-![minimalism-fibonacci-sequence-golden-ratio-mathematics-spiral-square-black-background-numbers-geometry-monochrome-inception-wallpaper-preview](https://github.com/DhruvSTrivedi/MIPS-Recursive-Fibonacci/assets/143839140/f0fc6c44-3e6c-4915-9bf3-4343f97d48f4)
+![minimalism-fibonacci-sequence-golden-ratio-mathematics-spiral-square-black-background-numbers-geometry-monochrome-inception-wallpaper-preview](fibonacci-sequence.png)
 
 ## Table of Contents
 
